@@ -499,7 +499,7 @@ class _HomePageState extends State<HomePage> {
             ),
             Icon(
               Icons.person,
-              size: 22.0,
+              size: 24.0,
             ),
           ],
         ),
